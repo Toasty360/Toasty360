@@ -1,11 +1,7 @@
-# 💫 About Me:
+## 🚀 About Me
 
-Hi there! 👋 I'm an enthusiastic developer with a knack for building engaging web and mobile applications. I thrive on solving complex problems and continuously exploring new technologies to expand my toolkit. When I'm not coding, you'll find me delving into cybersecurity or tinkering with creative tech projects.
+Hello! I'm Toasty360, a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy collaborating on projects and contributing to the open-source community.
 
-## 🌟 Fun Facts:
-- 🎮 I once built a mini-game as a side project and it became an instant hit among my friends.
-- 📚 I'm a huge fan of mystery novels and love drawing parallels between storytelling and coding.
-- 🌌 Aspiring polyglot—learning one new tech stack *and* a new spoken language every year!
 
 ## 💻 Technologies I Love Working With:
 - Languages: JavaScript, Dart, TypeScript
@@ -19,27 +15,33 @@ Hi there! 👋 I'm an enthusiastic developer with a knack for building engaging 
 - 🕵️‍♂️ Web Scraping Enthusiast
 - 🧠 AI and Machine Learning Enthusiast
 
----
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Technologies & Tools
 
----
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=000000)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=toasty360&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=toasty360&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toasty360&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Toasty360's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toasty360&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=toasty360&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toasty360&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=toasty360&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Toasty360)
+[![GitHub followers](https://img.shields.io/github/followers/Toasty360?label=Follow&style=social)](https://github.com/Toasty360/?tab=follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/orewaToast?style=social)](https://twitter.com/orewaToast)
