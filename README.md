@@ -1,60 +1,52 @@
-<div align="center">
-  <h1>Hi there, I'm Toasty360! 👋</h1>
-  <h3>Full-Stack Developer | Mobile Enthusiast | Open Source Contributor</h3>
-  
-  <p>
-    <a href="https://twitter.com/orewaToast" target="_blank"><img src="https://img.shields.io/twitter/follow/orewaToast?style=social" alt="Twitter"></a>
-    <a href="https://github.com/Toasty360/?tab=follow" target="_blank"><img src="https://img.shields.io/github/followers/Toasty360?label=Follow&style=social" alt="GitHub"></a>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Toasty360&color=blueviolet&style=flat-square" alt="Profile Views">
-</div>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Toasty — Java full-stack engineer and applied ML builder" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=E8B923&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;Applied+ML%3A+speech%2C+vision%2C+on-device;ToastTTS+%C2%B7+Gaze-Detection" alt="typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Toasty360?tab=followers"><img src="https://img.shields.io/github/followers/Toasty360?style=flat-square&label=Follow&color=E8B923" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Toasty360&style=flat-square&color=e8b923&label=views" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 About Me
+### about
 
-I am a passionate developer driven by building innovative solutions and continuously exploring new technologies. Whether I'm crafting responsive web apps, diving into cross-platform mobile development, or extracting data via web scraping, I thrive on solving complex problems and collaborating with the open-source community.
+Full-stack engineer with an M.S. in Computer & Information Systems. I build applied-ML projects that run on real hardware — a streaming text-to-speech engine and CPU gaze correction for video calls.
 
-**🔍 Current Interests & Focus:** 
-`Web Security` `AI/Machine Learning` `Mobile Architecture` `Web Scraping`
+- 🔭 currently: building applied-ML side projects on local Apple Silicon
+- 🌱 into: on-device inference, speech synthesis, computer vision
+- 💼 open to: full-stack and ML-adjacent engineering roles
 
----
+### featured work
 
-## 💻 Tech Stack & Tools
+| | |
+| --- | --- |
+| **🎙️ ToastTTS**<br>Natural pauses and a fast start for on-device text-to-speech. Sits between an LLM and Piper: splits streamed replies at natural pause points, ~0.1&nbsp;s to first audio, CPU-only at 25× realtime.<br><br>`Python` `Piper` `ONNX` `Modal`<br><br>[code →](https://github.com/Toasty360/ToastTTS) | **👁️ Gaze-Detection**<br>CPU gaze correction for video meetings — research-stage. Built and measured three approaches (learned warp, hybrid composite, layered eyeball renderer) on the same harness; the warp path produced visible patch artifacts instead of smooth correction.<br><br>`Python` `ONNX` `Jupyter`<br><br>[code →](https://github.com/Toasty360/Gaze-Detection) |
 
-**Frontend & Mobile**<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
+### stack
 
-**Backend**<br>
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,pytorch,ts,js,react,dart,flutter,swift,docker,git,linux,vscode&theme=dark" alt="tech stack" />
+</p>
 
-**DevOps & Tools**<br>
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+### stats
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Toasty360&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8b923&icon_color=e8b923&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Toasty360&hide_border=true&background=0d1117&ring=e8b923&fire=e8b923&currStreakLabel=e8b923&sideLabels=c9d1d9&dates=c9d1d9" alt="contribution streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toasty360&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8b923&text_color=c9d1d9" alt="top languages" />
+</p>
 
-## 📊 GitHub Analytics
+### activity
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Toasty360&show_icons=true&theme=radical" height="165" alt="Toasty360's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toasty360&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Toasty360's GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=toasty360&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toasty360/Toasty360/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toasty360/Toasty360/output/github-snake.svg" />
+  <img width="100%" alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Toasty360/Toasty360/output/github-snake.svg" />
+</picture>
